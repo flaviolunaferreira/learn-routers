@@ -1,0 +1,5 @@
+.app {
+  display: flex;
+  height: 97vh;
+  border: 4px groove rgb(164, 179, 194);
+}
